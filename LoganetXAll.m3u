@@ -15,12 +15,8 @@ https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD/480p.m3u8
 http://94.230.240.17:8080/otp/index.m3u8 
 #EXTINF:-1 group-title="Общие", ТВ Центр
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Общие", РенТВ 
-https://s12.federal.tv:8082/feda/rentv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Общие", РенТВ HD
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
-#EXTINF:-1 group-title="Общие", Домашний
-http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/480p.m3u8 
 #EXTINF:-1 group-title="Общие", Домашний HD
 http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
 #EXTINF:-1 group-title="Общие", ТВ3 HD
@@ -35,8 +31,6 @@ http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общие", БСТ
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Киномикс
-http://92.100.39.32:2289/play/kinomiks/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс HD
 http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 HD
